@@ -1,0 +1,6 @@
+{
+  "name": "AI Business Assistant",
+  "description": "An AI-powered business assistant helping small businesses automate customer support, scheduling, email drafting, analytics, and task management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
